@@ -1,0 +1,15 @@
+{
+    "name": "alist",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "fmt": "dprint fmt",
+        "prepare": "husky install"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^17.0.0",
+        "@commitlint/config-conventional": "^17.0.0",
+        "dprint": "^0.29.0",
+        "husky": "^8.0.0"
+    }
+}
